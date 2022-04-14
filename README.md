@@ -1,6 +1,7 @@
 
-This is a fork
-# VServer is a pufferfish fork for 1.17
+## This is a fork
+# VServer is a pufferfish fork for the server Vanilla Plus
+VServer patches netherite KB randomization in 1.17 and makes other changes
 
 
 
