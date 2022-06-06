@@ -1,9 +1,23 @@
 
-## This is a fork
-# VServer is a pufferfish fork for the server Vanilla Plus
-VServer patches netherite KB randomization in 1.17 and makes other changes
+# This is a fork
+## VServer is pufferfish fork for Vanilla+ a semi-anarchy, semi-vanilla server
+[website]: https://vanillaplus.net
+[vdiscord]: https://vanillaplus.net/discord
+
+[Website][website] - [Discord][vdiscord] - IP: `play.vanillaplus.net`
 
 
+
+Current Modifications:
+
+- [suffocation]: https://github.com/pufferfish-gg/Pufferfish/blob/ver/1.17/patches/server/0008-Optimize-suffocation.patch
+Removed a pufferfish [suffocation patch][suffocation]
+
+- [kb]: https://github.com/VanillaPlusMC/VServer/blob/ver/1.17/patches/server/0010-Fixed-Netherite-KB.patch
+Fixed netherite knockback randomization [patch][kb]
+
+
+------------------------------------------------------------------------------------------------------------------------------------
 
 [home]: https://pufferfish.host
 [knowledgebase]: https://docs.pufferfish.host
